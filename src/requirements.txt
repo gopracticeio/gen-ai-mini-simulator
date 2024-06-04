@@ -1,0 +1,6 @@
+openai==0.28.0
+orjson==3.9.7
+pandas==1.5.3
+tiktoken==0.5.1
+urllib3==1.25.11
+json5==0.9.6
