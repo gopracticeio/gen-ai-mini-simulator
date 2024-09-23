@@ -13,7 +13,7 @@ We try to keep them simple and do not use any frameworks
 ### How to start 
 - Run `pip install -r requirements.txt` to install necessary libraries
 - Input your OpenAI token in `run_ctx = RunCtx("<YOUR_TOKEN>")` cells
-- Notebooks use `gpt-3.5-turbo` by default to avoid excessive costs
+- Notebooks use `gpt-4o-mini` by default to avoid excessive costs
 - Notebooks use small samples by default to avoid excessive costs
 - Intermediate data is saved and can be inspected
 - Run notebooks sequentially for 0 to 4
